@@ -1,0 +1,17 @@
+# Python miljö
+venv/
+.venv/
+env/
+
+# Cache-filer
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Systemfiler
+.DS_Store
+
+# Modeller och data
+# (Vi lämnar dessa bortkommenterade så att de laddas upp)
+# *.keras
+# *.tsv
